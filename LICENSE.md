@@ -1,4 +1,4 @@
-# 
+# updated VMware Workstation PC版 脚本 是最佳 VMware Workstation PC版 脚本，集成 远程访问 和 USB直通。安全、可靠、优化，性能最大化。
 
 
 
